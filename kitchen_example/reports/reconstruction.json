@@ -15,7 +15,7 @@
                 },
                 "triangulated_points": 347,
                 "decision": "Success",
-                "memory_usage": 87662592
+                "memory_usage": 87666688
             },
             "grow": {
                 "steps": []
@@ -30,8 +30,8 @@
         }
     ],
     "wall_times": {
-        "compute_image_pairs": 0.01726860000007946,
-        "compute_reconstructions": 0.3977250999998887
+        "compute_image_pairs": 0.020921899999848392,
+        "compute_reconstructions": 0.5046929000000091
     },
     "not_reconstructed_images": []
 }
